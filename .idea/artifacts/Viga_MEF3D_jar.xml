@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Viga_MEF3D:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Viga_MEF3D_jar</output-path>
+    <root id="archive" name="Viga_MEF3D.jar">
+      <element id="module-output" name="Viga_MEF3D" />
+    </root>
+  </artifact>
+</component>
